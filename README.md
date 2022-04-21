@@ -5,19 +5,26 @@
 ![Welcome to my github page ](https://cdn.vox-cdn.com/thumbor/Shkz1gsyx5ri01BKa9LNfYlb1S0=/0x0:1920x1080/920x613/filters:focal(807x387:1113x693):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/68876614/Screenshot_20210220_184520__01_min.0.jpg)
 
 
-I am a software developer passionate in learning the ever expanding world of web development. I possess considerable knowledge in languages such as javascript and it's frameworks, C, Python and GD Script. I strive in creating applications that offer solutions and love the challenges that come with software development. I am always ready to learn and grow my skills up through learning anything new in tech and working on personal projects.
+I am a full-stack software developer passionate in learning the ever expanding world of web development. 
 
-- 🔭 I’m currently working on alx-school projects, and personal projects involving my skills in bash shell, C language and Python. 
-- 🤔  I’m currently reviewing my knowledge in data algorithms,data structures, reactjs and react native.
+I specialize in Javascript and I have experience working with NodeJs. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.
+
+Passionate about learning all Back-End and Front-End Technologies, Linux, Virtualization, Cloud Computing, and DevOps.
+
+Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
+
+- 🔭 I’m currently pursuing further course in software development at alx-school projects.
+- 🌱 I’m currently learning more of c, linux shell commands and python.
+- 🤔  I’m currently reviewing my knowledge in data algorithms,data structures, Reactjs and react native.
 - ⚡ I’m currently working on a nodejs web application using postgres db that creates projects and collects questionnaire data. 
 
 ## My Statistics
 
 <br/>
 <p align="left">
-  <img width=50% src="https://github-readme-stats.vercel.app/api?username=issar13&show_icons=true&theme=merko&hide_border=true" />
-  <img width=50% src="https://github-readme-streak-stats.herokuapp.com/?user=issar13&theme=merko&hide_border=true" />
-  <img width=50% src="https://github-readme-stats.vercel.app/api/top-langs?username=issar13&show_icons=true&theme=merko&hide_border=true"/>
+  <img width=49.5% src="https://github-readme-stats.vercel.app/api?username=issar13&show_icons=true&theme=merko&hide_border=true" />
+  <img width=49.5% src="https://github-readme-streak-stats.herokuapp.com/?user=issar13&theme=merko&hide_border=true" />
+  <img width=49.5% src="https://github-readme-stats.vercel.app/api/top-langs?username=issar13&show_icons=true&theme=merko&hide_border=true"/>
 
   </a>
 </p>
