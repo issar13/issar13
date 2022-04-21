@@ -15,9 +15,9 @@ I am a software developer passionate in learning the ever expanding world of web
 
 <br/>
 <p align="left">
-  <img width=80% src="https://github-readme-stats.vercel.app/api?username=issar13&show_icons=true&theme=merko&hide_border=true" />
-  <img width=80% src="https://github-readme-streak-stats.herokuapp.com/?user=issar13&theme=merko&hide_border=true" />
-  <img width=80% src="https://github-readme-stats.vercel.app/api/top-langs?username=issar13&show_icons=true&theme=merko&hide_border=true"/>
+  <img width=50% src="https://github-readme-stats.vercel.app/api?username=issar13&show_icons=true&theme=merko&hide_border=true" />
+  <img width=50% src="https://github-readme-streak-stats.herokuapp.com/?user=issar13&theme=merko&hide_border=true" />
+  <img width=50% src="https://github-readme-stats.vercel.app/api/top-langs?username=issar13&show_icons=true&theme=merko&hide_border=true"/>
 
   </a>
 </p>
