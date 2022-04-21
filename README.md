@@ -5,9 +5,9 @@
 ![Welcome to my github page ](https://cdn.vox-cdn.com/thumbor/Shkz1gsyx5ri01BKa9LNfYlb1S0=/0x0:1920x1080/920x613/filters:focal(807x387:1113x693):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/68876614/Screenshot_20210220_184520__01_min.0.jpg)
 
 
-I am a software developer who passionate in learning the ever expanind world of web development with considerable knowledge in languages such as javascript and it's frameworks, C and GD Script. I am working on personal projects as well as work one's to grow my skills up.
+I am a software developer passionate in learning the ever expanding world of web development. I possess considerable knowledge in languages such as javascript and it's frameworks, C, Python and GD Script. I strive in creating applications that offer solutions and love the challenges that come with software development. I am always ready to learn and grow my skills up through learning anything new in tech and working on personal projects.
 
-- 🔭 I’m currently working on alx-school projects, and personal projects involving my skills in bash shell, C language, UI creation and Python. 
+- 🔭 I’m currently working on alx-school projects, and personal projects involving my skills in bash shell, C language and Python. 
 - 🤔  I’m currently reviewing my knowledge in data algorithms,data structures, reactjs and react native.
 - ⚡ I’m currently working on a nodejs web application using postgres db that creates projects and collects questionnaire data. 
 
