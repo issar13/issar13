@@ -2,7 +2,7 @@
 
 
 ### Welcome to my github page
-<img src="https://cdn.vox-cdn.com/thumbor/Shkz1gsyx5ri01BKa9LNfYlb1S0=/0x0:1920x1080/920x613/filters:focal(807x387:1113x693):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/68876614/Screenshot_20210220_184520__01_min.0.jpg" alt="drawing" width="70%"/>
+<img src="https://cdn.vox-cdn.com/thumbor/Shkz1gsyx5ri01BKa9LNfYlb1S0=/0x0:1920x1080/920x613/filters:focal(807x387:1113x693):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/68876614/Screenshot_20210220_184520__01_min.0.jpg" alt="drawing" width="60%"/>
 
 
 I am a full-stack software developer passionate in learning the ever expanding world of web development. 
