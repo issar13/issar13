@@ -1,0 +1,73 @@
+## Hi there 👋, my name is Issa Mwazighe Suleiman
+
+
+### Welcome to my github page
+![Welcome to my github page ](https://cdn.vox-cdn.com/thumbor/Shkz1gsyx5ri01BKa9LNfYlb1S0=/0x0:1920x1080/920x613/filters:focal(807x387:1113x693):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/68876614/Screenshot_20210220_184520__01_min.0.jpg)
+
+
+I am a software developer who passionate in learning the ever expanind world of web development with considerable knowledge in languages such as javascript and it's frameworks, C and GD Script. I am working on personal projects as well as work one's to grow my skills up.
+
+- 🔭 I’m currently working on alx-school projects, and personal projects involving my skills in bash shell, C language, UI creation and Python. 
+- 🤔  I’m currently reviewing my knowledge in data algorithms,data structures, reactjs and react native.
+- ⚡ I’m currently working on a nodejs web application using postgres db that creates projects and collects questionnaire data. 
+
+
+### Streak
+
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=Pericles001">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pericles001" />
+</a>
+
+
+
+
+
+### Github stats
+
+[![](https://raw.githubusercontent.com/Pericles001/Pericles001/version-2/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Pericles001/Pericles001/version-2/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Pericles001/Pericles001/version-2/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Pericles001/Pericles001/version-2/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Pericles001/Pericles001/version-2/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+
+### Social links
+
+[![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/issar13)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/issarsuleiman)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issa-suleiman/)
+
+
+
+### Tools & Technologies
+
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+
+
+
+
+
+
+### Contribution graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pericles001)  
+
+### Weekly focus
+
+<!--START_SECTION:waka-->
+```text
+Week: 13 April, 2022 - 20 April, 2022
+
+Other        7 hrs 41 mins   █████████████▒░░░░░░░░░░░   52.86 % 
+JavaScript   3 hrs 32 mins   ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+Python       2 hrs 35 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.82 % 
+HTML         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+```
+<!--END_SECTION:waka-->
+
