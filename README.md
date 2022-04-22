@@ -5,7 +5,7 @@
 <img src="https://cdn.vox-cdn.com/thumbor/Shkz1gsyx5ri01BKa9LNfYlb1S0=/0x0:1920x1080/920x613/filters:focal(807x387:1113x693):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/68876614/Screenshot_20210220_184520__01_min.0.jpg" alt="drawing" width="60%"/>
 
 
-I am a full-stack software developer passionate in learning the ever expanding world of web development. 
+I am a full-stack software engineer passionate in learning the ever expanding world of web development. 
 
 I specialize in Javascript and I have experience working with NodeJs. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.
 
