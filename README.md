@@ -11,7 +11,7 @@ I specialize in Javascript and I have experience working with NodeJs. Good in Al
 
 Passionate about learning all Back-End and Front-End Technologies, Linux, Virtualization, Cloud Computing, and DevOps.
 
-Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
+Detail-oriented, responsible, and committed engineer with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
 
 ## 👨🏻‍💻 About me
 
