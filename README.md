@@ -36,8 +36,8 @@ Detail-oriented, responsible, and committed engineer with a get-it-done, on-time
 
 <br/>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=issar13&theme=merko&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=issar13&show_icons=true&theme=merko&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=issar13&theme=merko&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=issar13&show_icons=true&theme=merko&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=issar13&show_icons=true&theme=merko&hide_border=true"/>
 
   </a>
