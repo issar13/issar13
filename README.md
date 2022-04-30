@@ -15,8 +15,7 @@ Detail-oriented, responsible, and committed engineer with a get-it-done, on-time
 
 ## 👨🏻‍💻 About me
 
-- 🔭 I’m currently pursuing further course in software development at alx-school projects.
-- 🌱 I’m currently learning more of c, linux shell commands and python.
+- 🔭 I’m currently pursuing further course in software development at alx-school projects. Learning C and Python.
 - 🤔  I’m currently reviewing my knowledge in data algorithms,data structures, ReactJS and react native.
 - ⚡ I’m currently working on a nodejs web application using postgres db that creates projects and collects questionnaire data.
 
