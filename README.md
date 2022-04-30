@@ -17,28 +17,36 @@ Detail-oriented, responsible, and committed engineer with a get-it-done, on-time
 
 - 🔭 I’m currently pursuing further course in software development at alx-school projects.
 - 🌱 I’m currently learning more of c, linux shell commands and python.
-- 🤔  I’m currently reviewing my knowledge in data algorithms,data structures, Reactjs and react native.
-- ⚡ I’m currently working on a nodejs web application using postgres db that creates projects and collects questionnaire data. 
-
-## My Statistics
-
-<br/>
-<p align="left">
-  <img width=49.5% src="https://github-readme-stats.vercel.app/api?username=issar13&show_icons=true&theme=merko&hide_border=true" />
-  <img width=49.5% src="https://github-readme-streak-stats.herokuapp.com/?user=issar13&theme=merko&hide_border=true" />
-  <img width=49.5% src="https://github-readme-stats.vercel.app/api/top-langs?username=issar13&show_icons=true&theme=merko&hide_border=true"/>
-
-  </a>
-</p>
-<br>
-
+- 🤔  I’m currently reviewing my knowledge in data algorithms,data structures, ReactJS and react native.
+- ⚡ I’m currently working on a nodejs web application using postgres db that creates projects and collects questionnaire data.
 
 ### Social links
+
+[![website](./img/twitter-light.svg)](https://twitter.com/Significant_Joe#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/issarsuleiman#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/issa-suleiman#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://https://linkedin.com/in/david-olago-973200125#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/github-light.svg)](https://github.com/issar13#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/lord_davidj#gh-dark-mode-only)
 
 [![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/issar13)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/issarsuleiman)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issa-suleiman/)
 
+
+## My Statistics
+
+<br/>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=issar13&theme=merko&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=issar13&show_icons=true&theme=merko&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=issar13&show_icons=true&theme=merko&hide_border=true"/>
+
+  </a>
+</p>
+<br>
 
 
 ### Tools & Technologies
