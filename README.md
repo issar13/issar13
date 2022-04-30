@@ -22,18 +22,14 @@ Detail-oriented, responsible, and committed engineer with a get-it-done, on-time
 
 ### Social links
 
-[![website](./img/twitter-light.svg)](https://twitter.com/Significant_Joe#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Significant_Joe#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/issarsuleiman#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/issarsuleiman#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/david-olago-973200125#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://https://linkedin.com/in/david-olago-973200125#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/issa-suleiman#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://https://linkedin.com/in/issa-suleiman#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/lord_davidj#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/lord_davidj#gh-dark-mode-only)
-
-[![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/issar13)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/issarsuleiman)
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issa-suleiman/)
+[![website](./img/github-light.svg)](https://github.com/issar13#gh-light-mode-only)
+[![website](./img/github-dark.svg)](https://github.com/issar13#gh-dark-mode-only)
 
 
 ## My Statistics
