@@ -40,7 +40,7 @@ Detail-oriented, responsible, and committed engineer with a get-it-done, on-time
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=issar13&show_icons=true&theme=merko&hide_border=true" />
   </p>
   <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=issar13&show_icons=true&theme=merko&hide_border=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=issar13&show_icons=true&theme=merko&hide_border=true"/>
   </p>
 
   </a>
