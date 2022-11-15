@@ -2,6 +2,21 @@
 
 
 ### Welcome to my github page
+
+<span class="typewriter" data-period="2000" data-type='
+            ["a Software Craftsperson.",
+            "a Passion Driven Developer.",
+            "glad to see you here :D",
+            "a Learner.", "a Maker.",
+            "an Explorer.",
+            "a Problem Solver.",
+            "in permanent beta :P",
+            "a Writer.",
+            "a Photographer.",
+            "hoping you send me a Hi! :)"]'>
+                    <span class="wrap"></span>
+                </span>
+                
 I am a full-stack software engineer passionate in learning the ever expanding world of web development. 
 
 I specialize in Javascript and I have experience working with NodeJs. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.
