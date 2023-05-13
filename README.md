@@ -3,33 +3,17 @@
 
 ### Welcome to my github page
 
-<span class="typewriter" data-period="2000" data-type='
-            ["a Software Craftsperson.",
-            "a Passion Driven Developer.",
-            "glad to see you here :D",
-            "a Learner.", "a Maker.",
-            "an Explorer.",
-            "a Problem Solver.",
-            "in permanent beta :P",
-            "a Writer.",
-            "a Photographer.",
-            "hoping you send me a Hi! :)"]'>
-                    <span class="wrap"></span>
-                </span>
-                
-I am a full-stack software engineer passionate in learning the ever expanding world of web development. 
+I'm a seasoned Backend Software Engineer with expertise in a wide range of technologies and a strong focus on creating scalable software solutions. With a passion for innovation and a deep understanding of web development, I bring extensive knowledge in Node.js, TypeScript, and NestJS to the table. My skill set encompasses not only solid proficiency in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Web Sockets, but also exceptional problem-solving skills that allow me to tackle complex challenges head-on.
 
-I specialize in Javascript and I have experience working with NodeJs. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.
+In addition to my technical prowess, I have a holistic approach to software development. I thrive in dynamic environments where I can constantly expand my horizons and stay up to date with the latest trends and technologies. I'm well-versed in both Back-End and Front-End technologies, including ReactJS and React Native. Furthermore, I have a strong background in Linux, Virtualization, Cloud Computing, and DevOps, enabling me to design and implement robust and scalable systems.
 
-Passionate about learning all Back-End and Front-End Technologies, Linux, Virtualization, Cloud Computing, and DevOps.
-
-Detail-oriented, responsible, and committed engineer with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
+I take great pride in my attention to detail and my commitment to delivering high-quality products on time. As a quick learner and a self-motivated individual, I embrace challenges with enthusiasm and continuously seek opportunities for personal and professional growth
 
 ## 👨🏻‍💻 About me
 
-- 🔭 I’m currently pursuing further course in software development at alx-school projects. Learning C and Python.
-- 🤔  I’m currently reviewing my knowledge in data algorithms,data structures, ReactJS and react native.
-- ⚡ I’m currently working on a nodejs web application using postgres db that creates projects and collects questionnaire data.
+- 🔭 Currently, I'm exploring advanced software development concepts and pushing the boundaries of my knowledge.
+- 🤔 Actively seeking opportunities to apply my expertise in data algorithms, data structures, and cutting-edge technologies
+- ⚡ I'm currently involved in an exciting project that involves building a highly performant Node.js web application. Leveraging my skills in database management, I'm developing a solution that allows seamless project creation and efficient collection of questionnaire data
 
 ### Social links
 
