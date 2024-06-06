@@ -3,17 +3,15 @@
 
 ### Welcome to my github page
 
-I'm a seasoned Backend Software Engineer with expertise in a wide range of technologies and a strong focus on creating scalable software solutions. With a passion for innovation and a deep understanding of web development, I bring extensive knowledge in Node.js, TypeScript, and NestJS to the table. My skill set encompasses not only solid proficiency in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Web Sockets, but also exceptional problem-solving skills that allow me to tackle complex challenges head-on.
+I'm a seasoned Backend Software Engineer with expertise in a wide range of technologies and a strong focus on creating scalable software solutions. With a passion for innovation and a deep understanding of web development, I bring extensive knowledge in Node.js, TypeScript, ReactJS and NestJS to the table, plus exceptional problem-solving skills that allow me to tackle complex challenges head-on.
 
-In addition to my technical prowess, I have a holistic approach to software development. I thrive in dynamic environments where I can constantly expand my horizons and stay up to date with the latest trends and technologies. I'm well-versed in both Back-End and Front-End technologies, including ReactJS and React Native. Furthermore, I have a strong background in Linux, Virtualization, Cloud Computing, and DevOps, enabling me to design and implement robust and scalable systems.
-
-I take great pride in my attention to detail and my commitment to delivering high-quality products on time. As a quick learner and a self-motivated individual, I embrace challenges with enthusiasm and continuously seek opportunities for personal and professional growth
+I thrive in dynamic environments where I can constantly expand my horizons and stay up to date with the latest technologies. Furthermore, I have a strong background in Linux, Cloud Computing, and DevOps, enabling me to design and implement robust and scalable systems. I embrace challenges with enthusiasm and continuously seek opportunities for personal and professional growth.
 
 ## 👨🏻‍💻 About me
 
 - 🔭 Currently, I'm exploring advanced software development concepts and pushing the boundaries of my knowledge.
-- 🤔 Actively seeking opportunities to apply my expertise in data algorithms, data structures, and cutting-edge technologies
-- ⚡ I'm currently involved in an exciting project that involves building a highly performant Node.js web application. Leveraging my skills in database management, I'm developing a solution that allows seamless project creation and efficient collection of questionnaire data
+- 🤔 Actively seeking opportunities to apply my expertise in data algorithms, data structures, and cutting-edge technologies and kubernetes.
+- ⚡ I'm currently involved in an exciting project that involves building a highly performant NestJS web application.
 
 ### Social links
 
