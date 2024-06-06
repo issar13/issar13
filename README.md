@@ -27,7 +27,7 @@ I take great pride in my attention to detail and my commitment to delivering hig
 [![website](./img/github-dark.svg)](https://github.com/issar13#gh-dark-mode-only)
 
 
-## My Statistics
+<!-- ## My Statistics
 
 <br/>
 <p align="left">
@@ -37,7 +37,7 @@ I take great pride in my attention to detail and my commitment to delivering hig
 
   </a>
 
-<br>
+<br> -->
 
 
 ### Tools & Technologies
