@@ -7,14 +7,6 @@
 
 I thrive in dynamic environments where I can constantly expand my horizons and stay up to date with the latest technologies. Furthermore, I have a strong background in Linux, Cloud Computing, and DevOps, enabling me to design and implement robust and scalable systems. I embrace challenges with enthusiasm and continuously seek opportunities for personal and professional growth.
 
-### Social links
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/issa-suleiman#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/issa-suleiman#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/github-light.svg)](https://github.com/issar13#gh-light-mode-only)
-[![website](./img/github-dark.svg)](https://github.com/issar13#gh-dark-mode-only)
-
-
 ### Tools & Technologies
 
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
