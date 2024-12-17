@@ -3,39 +3,16 @@
 
 ### Welcome to my github page
 
-I'm a seasoned Backend Software Engineer with expertise in a wide range of technologies and a strong focus on creating scalable software solutions. With a passion for innovation and a deep understanding of web development, I bring extensive knowledge in Node.js, TypeScript, ReactJS and NestJS to the table, plus exceptional problem-solving skills that allow me to tackle complex challenges head-on.
+ Software Engineer with expertise in a wide range of technologies and a strong focus on creating scalable software solutions. With a passion for innovation and a deep understanding of web development, I bring extensive knowledge in Node.js, TypeScript, ReactJS and NestJS to the table, plus exceptional problem-solving skills that allow me to tackle complex challenges head-on.
 
 I thrive in dynamic environments where I can constantly expand my horizons and stay up to date with the latest technologies. Furthermore, I have a strong background in Linux, Cloud Computing, and DevOps, enabling me to design and implement robust and scalable systems. I embrace challenges with enthusiasm and continuously seek opportunities for personal and professional growth.
 
-## 👨🏻‍💻 About me
-
-- 🔭 Currently, I'm exploring advanced software development concepts and pushing the boundaries of my knowledge.
-- 🤔 Actively seeking opportunities to apply my expertise in data algorithms, data structures, and cutting-edge technologies and kubernetes.
-- ⚡ I'm currently involved in an exciting project that involves building a highly performant NestJS web application.
-
 ### Social links
-
-[![website](./img/twitter-light.svg)](https://twitter.com/issarsuleiman#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/issarsuleiman#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/issa-suleiman#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/issa-suleiman#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/github-light.svg)](https://github.com/issar13#gh-light-mode-only)
 [![website](./img/github-dark.svg)](https://github.com/issar13#gh-dark-mode-only)
-
-
-<!-- ## My Statistics
-
-<br/>
-<p align="left">
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=issar13&theme=gotham&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=issar13&show_icons=true&theme=gotham&hide_border=true" />
-  </p>
-
-  </a>
-
-<br> -->
 
 
 ### Tools & Technologies
